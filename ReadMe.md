@@ -7,6 +7,11 @@ just needs the **[SDL_ShaderCross](https://github.com/libsdl-org/SDL_shadercross
 
 ## How to use
 Put fragment shaders in 'Raw->Frag' folder and vertex shader to 'Raw->VS' and compute shader to 'Raw->Compute'.
+# OR
+Use terminal/cmd and write:
+```batch
+SDLCompileAll --help
+```
 
 **and here you should just click executable**
 >it will show error if happen and in buttom of the red line you will see the error like this
